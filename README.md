@@ -1,6 +1,6 @@
 # Bienvenue sur mon Github 👋
 
-Je m'appelle Marc BERRET et je suis étudiant au sein de __Polytech Lyon__ en mathématiques appliquées et modélisation.
+Je m'appelle Marc BERRET et je suis étudiant au sein de __Polytech Lyon__ en mathématiques appliquées et modélisation. J'effectue actuellement un erasmus à l'université de Padoue en Italie dans la science des données.
 
 ## Mes projets 📌
 
