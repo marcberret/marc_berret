@@ -1,6 +1,6 @@
 # Bienvenue sur mon Github 👋
 
-Je m'appelle Marc Berret et je suis étudiant au sein de __Polytech Lyon__ en mathématiques appliquées et modélisation. J'effectue actuellement mon stage de fin d'études au sein de l'entreprise Orange en tant que Data Scientist MLOps.
+Je m'appelle Marc Berret et je suis diplômé de l'école d'ingénieur __Polytech Lyon__ en mathématiques appliquées.
 
 ## Mes projets 📌
 
